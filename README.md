@@ -174,4 +174,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
   <sub>Built with ❤️ by Md Sabbir Ahmad</sub><br>
   <sub>Copyright © 2025 Weather Application</sub>
-</div> 
+</div> # weather-app-python
